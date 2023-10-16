@@ -1,0 +1,1 @@
+Esse é meu o meu projeto de calculadora. Estarei testando minhas práticas em HTML, CSS e JS, ao mesmo tempo que vou aprender o que eu ainda não sei.
